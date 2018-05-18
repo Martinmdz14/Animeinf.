@@ -1,0 +1,96 @@
+body{
+	background:	gray;	
+	color:		white;
+	font-family	:arial,helvetica,verdana;	
+}
+
+h1{
+	font-size:	100px;
+	font-family	:arial,helvetica,verdana;
+}
+
+a{
+	font-size:	15px;
+	font-family:	arial;
+	color:		black;
+}
+
+div{
+	width:		100%;
+}
+
+.COBAEP{
+	height:		200px;
+	width:		300px;
+	margin:		auto;
+	display:	block;
+	border-radius:	5px;
+	padding:	20px;
+}
+
+img{
+	height:		350px;
+	width:		250px;
+	margin:		auto;
+	display:	block;
+	border-radius:	5px;
+	padding:	20px;
+}
+
+.MENU{
+	color:		black;
+	font-family	:arial,helvetica,verdana;
+	margin:		;
+	padding:	0;
+}
+
+.MENU th:hover{
+	background:	gray;
+	color:		white;
+}
+
+
+.MENU1{
+	color:		black;
+	font-family	:arial,helvetica,verdana;
+	margin:		0;
+	padding:	0;
+}
+
+.TEXTO p{ 
+
+	color:		white;
+	font-family	:arial,helvetica,verdana;	
+	font-size:	15px;
+	padding:	20px;
+}
+
+.MENU1 p{ 
+
+	font-family	:arial,helvetica,verdana;	
+	font-size:	2px;
+	padding:	1px;
+}
+
+.MENU2{
+	color:		black;
+	font-family:	arial;
+	margin:		0;
+	padding:	0;
+}
+
+.MENU2 p{ 
+
+	font-family	:arial,helvetica,verdana;	
+	font-size:	2px;
+	padding:	1px;
+}
+
+.MENU2 img{
+	height:		200px;
+	width:		100px;
+	margin:		auto;
+	display:	block;
+	border-radius:	5px;
+	padding:	20px;
+}
